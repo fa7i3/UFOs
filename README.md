@@ -5,3 +5,13 @@ The purpose of this project is to build a unique table using data stored in Java
 # Resources.
 * Datasets:
     1) data.js
+* Software:
+    1) JavaScriot
+    2) HTML
+    3) CSS
+    4) Bootstrap
+    5) D3 library
+ 
+ # Results.
+ 
+    
