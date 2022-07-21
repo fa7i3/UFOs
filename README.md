@@ -4,4 +4,4 @@ The purpose of this project is to build a unique table using data stored in Java
 
 # Resources.
 * Datasets:
-^ data.js
+    1) data.js
