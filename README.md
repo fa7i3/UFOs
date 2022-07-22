@@ -6,7 +6,7 @@ The purpose of this project is to build a unique table using data stored in Java
 * Datasets:
     1) data.js
 * Software:
-    1) JavaScriot
+    1) JavaScript
     2) HTML
     3) CSS
     4) Bootstrap
