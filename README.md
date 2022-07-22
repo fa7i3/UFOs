@@ -15,5 +15,6 @@ The purpose of this project is to build a unique table using data stored in Java
  # Results.
  The result was the working website that filtered the data using five diffrent categories which are: date, city, state, country and shape.
  
-* The unique website shows the UFO's sightings data in a well structured table which details the date, city, state, country, shape, duration and comments.
-* The     
+* The unique website shows the UFO's sightings data in a well structured table which details the date, city, state, country, shape, duration and comments;
+* The website was designed using HTML and JavaScript; arranged and decorated using CSS and Bootstrap;
+*    
