@@ -29,4 +29,6 @@ The purpose of this project is to build a unique table using data stored in Java
 
 
 # Summary.
+A disadvantage is that the dataset included UFOs sightings only in the US and may not get attention from other countries.
+One recommendation would be to utilize CSS and Bootstrap to further decorate the website.
 
